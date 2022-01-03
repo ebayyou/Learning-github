@@ -1,13 +1,14 @@
-#2 working with github
+Pro tips for begginer's using git hub :
 
-structure github :
 1. what is git hub ?
 GitHub is a project management, code versioning system, as well as a social networking platform for developers 
 around the world. There are so many functions that can be used by developers, so that through this platform it 
 is easier for developers to develop a work.
 
 2. working with github
+working with github allows us to work remotely or without having to be in person and work collaboratively or as a team
+
 3. what is github : branch ?
-5. what is github : fork ?
+5. what is github : fork ? 
 
 
