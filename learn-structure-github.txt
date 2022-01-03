@@ -1,0 +1,13 @@
+#2 working with github
+
+structure github :
+1. what is git hub ?
+GitHub is a project management, code versioning system, as well as a social networking platform for developers 
+around the world. There are so many functions that can be used by developers, so that through this platform it 
+is easier for developers to develop a work.
+
+2. working with github
+3. what is github : branch ?
+5. what is github : fork ?
+
+
