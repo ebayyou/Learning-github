@@ -8,3 +8,4 @@ Git is software for tracking changes in any set of files, usually used for coord
 2. working with git
 3. learn branch & merch
 4. what is git merge conflict
+5. what is git remote and How does it work ?
