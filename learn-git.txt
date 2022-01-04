@@ -6,6 +6,9 @@ Git is software for tracking changes in any set of files, usually used for coord
 - what to learn git?
 1. get to know the terms and how to use the features provided by git.
 2. working with git
+   - project details
 3. learn branch & merch
+   - use the terminal
 4. what is git merge conflict
 5. what is git remote and How does it work ?
+6. how to use web hosting in git ? 
