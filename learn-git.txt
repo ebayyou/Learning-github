@@ -13,3 +13,4 @@ Git is software for tracking changes in any set of files, usually used for coord
 4. what is git merge conflict
 5. what is git remote and How does it work ?
 6. how to use web hosting in git ? 
+
